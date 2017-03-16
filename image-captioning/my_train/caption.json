@@ -1,0 +1,20 @@
+[
+	{"captions": ["A man riding skis down a snow covered slope. ",
+			 "Man skiing down a snow covered hill.", 
+			 "man riding skis down a steep snow covered slope.", 
+			 "A man with yellow trouser riding skis down a snowy hill."],
+	"file_path": "1.jpg", 
+	"id": 1},
+
+	{"captions": ["a plate of food with a sandwich and a salad. ",
+			 "a white plate with green salad and sandwiches.", 
+			 "A plate with lots of salad and two sandwiches."],
+	"file_path": "2.jpg", 
+	"id": 2},
+
+	{"captions": ["Two giraffes standing next to a pole. ",
+			 "Giraffes are eating in a zoo.", 
+			 "two giraffes standing close to each other while eating."],
+	"file_path": "3.jpg", 
+	"id": 3}
+]
