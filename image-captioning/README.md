@@ -1,11 +1,3 @@
-# Image Captioning
-### Group Number : 06
-### Group Members:
-1. Kriti Joshi (13358)
-2. Pramod Chunduri (13221)
-### References :
-1. Show and Tell : A Neural Image Caption Generator
-2. Deep Visual-Semantic Alignments for Generating Image Descriptions (for further work)
 ### Platform/Frameworks:
 1. Python/IPython (preprocessing work)
 2. lua with torch (training - testing of neural network)
@@ -37,6 +29,10 @@ Trains the LSTM used and creates **model_id.t7** and **model_id.json** files in 
 $ th eval.lua
 ```
 Generates captions for the test images and stores them in `vis.json` in `vis` folder along with the corresponding images that are copied to `vis/imgs`.
+
+### References :
+1. Show and Tell : A Neural Image Caption Generator
+2. Deep Visual-Semantic Alignments for Generating Image Descriptions (for further work)
 
 [Val2014]:<http://mscoco.org/dataset/#download>
 [Ref]:<https://github.com/karpathy/neuraltalk2>
